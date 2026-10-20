@@ -10,7 +10,7 @@
 非常感谢社区的大力支持！
 
 # 复活吧我的下载功能
-举报的也够气不气气不气
+请在GitHub Actions下载(https://github.com/vvcDaDa/PCL/actions/runs/39413793844)
 
 <br/>
 
