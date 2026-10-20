@@ -10,7 +10,7 @@
 非常感谢社区的大力支持！
 
 # 复活吧我的下载功能
-请在GitHub Actions下载(https://github.com/vvcDaDa/PCL/actions/runs/39413793844)
+请在 [GitHub Actions](https://github.com/vvcDaDa/PCL/actions/runs/39413793844) 下载，所有特性与开源版保持一致。
 
 <br/>
 
